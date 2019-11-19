@@ -11,5 +11,5 @@ Contributors:
 [explore the emotional for negative words version1](https://github.com/slayAlphalu/Capstone-Project-Twitter-data/blob/master/twitter/twitter_emotional_detection.ipynb)
 
 
-[explore the emotional for negative and anxiety categories version2](https://github.com/slayAlphalu/Capstone-Project-Twitter-data/blob/master/twitter/twitter_emotional_detection.ipynb)
+[explore the emotional for negative and anxiety categories version2](https://github.com/slayAlphalu/Capstone-Project-Twitter-data/blob/master/twitter/twitter%20emotion%20detection%20version2.ipynb)
 
